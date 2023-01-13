@@ -15,7 +15,7 @@
 Клонировать репу, открыть `cmd`, дать команды
 
 ```batch
-cd myPath/autumn-dduck
+cd myPath\autumn-dduck
 opm build
 opm i autumn-dduck-0.1.0.ospx
 ```
