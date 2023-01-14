@@ -17,7 +17,7 @@
 ```batch
 cd myPath\autumn-dduck
 opm build
-opm i autumn-dduck-0.1.1.ospx
+opm i autumn-dduck-0.1.2.ospx
 ```
 
 Все, компонента ляжет в бибилиотеки `lib` оскрипта.
